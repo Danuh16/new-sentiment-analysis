@@ -3,5 +3,6 @@
   "python.testing.pytestArgs": [
     "tests"
   ],
-  "jupyter.askForKernelRestart": false
+  "jupyter.askForKernelRestart": false,
+  "python-envs.defaultEnvManager": "ms-python.python:system"
 }
