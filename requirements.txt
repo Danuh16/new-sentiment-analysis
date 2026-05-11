@@ -7,3 +7,6 @@ nltk>=3.9.0
 wordcloud>=1.9.3
 jupyter>=1.0.0
 pytest>=8.0.0
+TA-Lib>=0.4.25
+pynance>=0.1.0
+plotly>=5.0.0
